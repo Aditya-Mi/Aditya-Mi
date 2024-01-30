@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/aditya_mittal18" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_mittal18?logo=twitter&style=for-the-badge" alt="aditya_mittal18" /></a> </p>
 
-- 🔭 I’m currently working on [Furniture App](https://github.com/Aditya-Mi/Furniture-App)
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **adityamittal0918@gmail.com**
